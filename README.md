@@ -45,10 +45,10 @@ O projeto é composto pelas seguintes classes:
 ## Exemplo de Uso
 
 1. **Cadastrar Cliente**:
-   - Insira o nome, endereço e outras informações necessárias do cliente.
+   - Insira o nome, email e data de nascimento do cliente.
 
 2. **Cadastrar Produto**:
-   - Insira o nome, preço e outras informações necessárias do produto.
+   - Insira o nome e preço do produto.
 
 3. **Criar Pedido**:
    - Selecione o cliente e adicione os produtos desejados com as quantidades correspondentes.
